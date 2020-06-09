@@ -2,7 +2,7 @@
 8th June 2020
 
 ### Project Title
-Explore US Bikeshare Data.
+Exploring US Bikeshare Data.
 
 ### Description
 Investigate bikeshare data.
